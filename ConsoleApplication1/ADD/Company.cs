@@ -12,6 +12,7 @@ namespace ConsoleApplication1.ADD
         public string Name { set; get; }
         public double Salary { set; get; }
 
+        public double Salary3 { set; get; }
         public string abc { get; set; }
     }
 }
